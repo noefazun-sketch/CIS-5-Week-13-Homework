@@ -114,6 +114,13 @@ No classes or inheritance. No GUI. Part 2 is a sketch, not the final. The final 
 g++ -std=c++17 -o words main.cpp && ./words
 g++ -std=c++17 -o model model.cpp && ./model
 ```
+## part 1 run
+PS C:\Users\rinco\new ci5\CIS-5-Week-13-Homework> ./words
+First: neoe
+Last: zuniga
+Hello, neoe zuniga!
+Length: 11
+Initials: nz
 
 On Windows (Visual Studio), open the `.cpp` file and use **Local Windows Debugger**.
 4. Record a short demo that shows your tool, your code, and a real run.
