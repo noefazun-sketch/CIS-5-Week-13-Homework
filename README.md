@@ -122,6 +122,20 @@ Hello, neoe zuniga!
 Length: 11
 Initials: nz
 ## final project proposal
+Final Project Proposal
+
+Track: Mini Bank
+
+Struct: Account
+
+Fields:
+
+name (string): Stores the account holder's name.
+
+balance (double): Stores the amount of money in the account.
+
+Features:
+
 I plan to add three features. The first is displaying all bank accounts. The second is allowing users to deposit money, and the third is allowing users to withdraw money while checking that they have a sufficient balance.
 ##
 On Windows (Visual Studio), open the `.cpp` file and use **Local Windows Debugger**.
