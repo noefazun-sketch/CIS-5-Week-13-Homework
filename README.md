@@ -121,7 +121,9 @@ Last: zuniga
 Hello, neoe zuniga!
 Length: 11
 Initials: nz
-
+## final project proposal
+I plan to add three features. The first is displaying all bank accounts. The second is allowing users to deposit money, and the third is allowing users to withdraw money while checking that they have a sufficient balance.
+##
 On Windows (Visual Studio), open the `.cpp` file and use **Local Windows Debugger**.
 4. Record a short demo that shows your tool, your code, and a real run.
 5. Paste the video link in the **Demo video** section above.
